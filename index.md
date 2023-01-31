@@ -2,40 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Data Engieering Portfolio
 
-There should be whitespace between paragraphs.
+## Apache Spark
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I have more then 5 year of professional experience in developing data pipelines using spark. I have experience in applying various transformations to very large amount of data.
 
-# Header 1
+## Apache Kafka
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Experience in developing application using kafka-connect and kafka streaming. Also, worked on streaming jobs by integrationg kafka with spark.
+Very proficient in core concept of kafka and its components.
 
 #### Header 4
 
